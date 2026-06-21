@@ -77,7 +77,7 @@ The decoder generates output one word at a time. It has two attention layers:
 2. **Cross-attention** - attends to the encoder's output, so the decoder can "look at the input" while generating each word
 
 
-###### Why Transformers Win 
+##### **Why Transformers Win** 
 
 - All position processed in parallel
 - Every layer has full access to all positions
